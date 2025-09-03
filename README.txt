@@ -1,46 +1,74 @@
+Perfect 👌 — I’ll structure this into a clean **mod documentation** format that looks professional and is easy to expand later. Here’s a draft for your **Legend Of Virelia** mod documentation:
 
-Source installation information for modders
--------------------------------------------
-This code follows the Minecraft Forge installation methodology. It will apply
-some small patches to the vanilla MCP source code, giving you and it access 
-to some of the data and functions you need to build a successful mod.
+---
 
-Note also that the patches are built against "un-renamed" MCP source code (aka
-SRG Names) - this means that you will not be able to read them directly against
-normal code.
+# 📖 Legend Of Virelia
 
-Setup Process:
-==============================
+**Author:** Infscilo
+**Minecraft Version:** 1.20.1
+**Loader:** Forge 1.20.1
+**Dependencies:** [BetterCombat](https://www.curseforge.com/minecraft/mc-mods/better-combat)
 
-Step 1: Open your command-line and browse to the folder where you extracted the zip file.
+---
 
-Step 2: You're left with a choice.
-If you prefer to use Eclipse:
-1. Run the following command: `./gradlew genEclipseRuns`
-2. Open Eclipse, Import > Existing Gradle Project > Select Folder 
-   or run `gradlew eclipse` to generate the project.
+## 🌌 Overview
 
-If you prefer to use IntelliJ:
-1. Open IDEA, and import project.
-2. Select your build.gradle file and have it import.
-3. Run the following command: `./gradlew genIntellijRuns`
-4. Refresh the Gradle Project in IDEA if required.
+**Legend Of Virelia** is an **RPG-inspired mod** that introduces a new dimension, powerful weapons, and unique resources. It is currently in **early development (beta)** and focuses on expanding the player’s progression with **overpowered gear**, a **new Solaris Dimension**, and rare materials like **Aetherium** and **Solaris fragments**.
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can 
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-(this does not affect your code) and then start the process again.
+---
 
-Mapping Names:
-=============================
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license, if you do not agree with it you can change your mapping names to other crowdsourced names in your 
-build.gradle. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/MinecraftForge/MCPConfig/blob/master/Mojang.md
+## ⚔️ Features
 
-Additional Resources: 
-=========================
-Community Documentation: https://docs.minecraftforge.net/en/1.20.1/gettingstarted/
-LexManos' Install Video: https://youtu.be/8VEdtQLuLO0
-Forge Forums: https://forums.minecraftforge.net/
-Forge Discord: https://discord.minecraftforge.net/
+### 🗡 Weapons & Armor
+
+* **Solaris Sword (Longsword)** – A mighty blade infused with Solaris energy.
+* **Solaris Armor Set** – Provides unmatched defense and power.
+
+### 🌍 Dimensions
+
+* **Solaris Dimension (Beta)** – A mysterious new world to explore.
+
+  * Currently in early testing.
+  * Will host unique mobs, ores, and bosses in future updates.
+
+### 👻 Entities
+
+* **Solaris Spirit** – Early test mob for Solaris dimension.
+
+### ⛏ Ores & Materials
+
+* **Aetherium Ore** – Rare ore found in the world.
+* **Aetherium Ingot** – Refined from Aetherium Ore.
+* **Solaris Fragment** – A mystical shard from Solaris.
+* **Solaris Ingot** – A high-tier crafting material.
+
+---
+
+## 🔮 Planned Content (Next Updates)
+
+* **Weapons**: More weapon types beyond swords.
+* **Tools**: Solaris Toolset & Aetherium Toolset.
+* **Armor**: Full Aetherium Armor Set.
+* **Mobs**: Friendly and hostile mobs to populate Solaris.
+* **Bosses**: Challenging end-game encounters.
+* **Expanded Solaris Dimension**: Biomes, structures, dungeons, and lore.
+
+---
+
+## ⚙️ Installation
+
+1. Install **Forge 1.20.1**.
+2. Install the dependency **BetterCombat**.
+3. Download and place **Legend Of Virelia** into your `mods` folder.
+4. Launch Minecraft with Forge and enjoy.
+
+---
+
+## 📌 Notes
+
+* The **Solaris Dimension** is in **beta** and may not yet contain all intended content.
+* Balancing for weapons and armor is ongoing. Expect changes in future updates.
+
+---
+
+👉 Do you want me to also make this look like a **README.md** (GitHub-ready format) with Markdown styling, or more like a **player wiki page** (with sections like Crafting Recipes, Mob Stats, etc.)?

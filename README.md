@@ -3,7 +3,7 @@
 **Author:** Infscilo
 **Minecraft Version:** 1.20.1
 **Loader:** Forge 1.20.1
-**Dependencies:** [BetterCombat](https://www.curseforge.com/minecraft/mc-mods/better-combat)
+**Dependencies:** [BetterCombat](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus)
 
 ---
 

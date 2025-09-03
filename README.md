@@ -17,7 +17,7 @@
 
 ### 🗡 Weapons & Armor
 
-* **Solaris Sword (Longsword)** – A mighty blade infused with Solaris energy.
+* **Solaris Sword (Longsword)** – A mighty blade carfted using Solaris Ingot.
 * **Solaris Armor Set** – Provides unmatched defense and power.
 
 ### 🌍 Dimensions

@@ -1,0 +1,31 @@
+{
+  "feature": "legendofvirelia:my_dim_aetherium_ore",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 120
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "heightmap": "WORLD_SURFACE",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "value": {
+          "absolute": 0
+        },
+        "min_inclusive": {
+          "absolute": -40
+        },
+        "max_inclusive": {
+          "below_top": 20
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

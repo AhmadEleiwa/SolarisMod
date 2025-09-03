@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": {
+    "item": "legendofvirelia:solaris_fragment"
+  },
+  "result": "legendofvirelia:solaris_ingot",
+  "experience": 5
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "E E",
+    "EEE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "legendofvirelia:solaris_ingot"
+    }
+  },
+  "result": {
+    "item": "legendofvirelia:solaris_chestplate"
+  }
+}

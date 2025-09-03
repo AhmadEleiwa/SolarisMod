@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "legendofvirelia:aetherium_ingot"
+    }
+  ],
+  "result": {
+    "item": "legendofvirelia:solaris_ingot",
+    "count": 3
+  }
+}

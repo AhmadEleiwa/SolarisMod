@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": {
+    "item": "legendofvirelia:raw_aetherium"
+  },
+  "result": "legendofvirelia:aetherium_ingot",
+  "experience": 5
+}

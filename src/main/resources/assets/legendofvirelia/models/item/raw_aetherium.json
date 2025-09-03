@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "legendofvirelia:item/raw_aetherium"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "item.legendofvirelia.aetherium_ore": "Aetherium Ore",
+  "block.legendofvirelia.aetherium_ore": "Aetherium Ore",
+
+  "item.legendofvirelia.raw_aetherium": "Raw Aetherium",
+  "item.legendofvirelia.aetherium_ingot": "Aetherium Ingot",
+
+  "creativetab.legend_of_virelia_tab": "Legends of Virelia",
+
+  "item.legendofvirelia.solaris_ingot": "Solaris Alloy",
+  "item.legendofvirelia.solaris_fragment" : "Solaris Fragment",
+
+
+  "item.legendofvirelia.solaris_sword" : "Solaris Sword",
+  "tooltip.legendofvirelia.solaris_sword" : "Lord of Solaris's Long Sword ",
+
+  "item.legendofvirelia.solaris_boots" : "Solaris Boots",
+  "tooltip.legendofvirelia.solaris_boots": "Lord of Solaris's Boots",
+  "item.legendofvirelia.solaris_leggings" : "Solaris Leggings",
+  "item.legendofvirelia.solaris_chestplate" : "Solaris Chestplate",
+  "item.legendofvirelia.solaris_helmet" : "Solaris Helmet"
+
+
+}

@@ -1,24 +1,56 @@
 {
-  "item.legendofvirelia.aetherium_ore": "Aetherium Ore",
   "block.legendofvirelia.aetherium_ore": "Aetherium Ore",
 
   "item.legendofvirelia.raw_aetherium": "Raw Aetherium",
+  "item.legendofvirelia.aetherium_dust": "Aetherium Dust",
   "item.legendofvirelia.aetherium_ingot": "Aetherium Ingot",
 
   "creativetab.legend_of_virelia_tab": "Legends of Virelia",
 
   "item.legendofvirelia.solaris_ingot": "Solaris Alloy",
   "item.legendofvirelia.solaris_fragment" : "Solaris Fragment",
-
+  "item.legendofvirelia.black_solaris_ingot": "Black Solaris Alloy",
 
   "item.legendofvirelia.solaris_sword" : "Solaris Sword",
+  "tooltip.legendofvirelia.solaris_long_sword" : "Lord of Solaris's Long Sword ",
+
+  "item.legendofvirelia.solaris_long_sword" : "Solaris Long Sword",
   "tooltip.legendofvirelia.solaris_sword" : "Lord of Solaris's Long Sword ",
+
 
   "item.legendofvirelia.solaris_boots" : "Solaris Boots",
   "tooltip.legendofvirelia.solaris_boots": "Lord of Solaris's Boots",
   "item.legendofvirelia.solaris_leggings" : "Solaris Leggings",
   "item.legendofvirelia.solaris_chestplate" : "Solaris Chestplate",
-  "item.legendofvirelia.solaris_helmet" : "Solaris Helmet"
+  "item.legendofvirelia.solaris_helmet" : "Solaris Helmet",
 
 
+  "item.legendofvirelia.aetherium_boots" : "Aetherium Boots",
+  "item.legendofvirelia.aetherium_leggings" : "Aetherium Leggings",
+  "item.legendofvirelia.aetherium_chestplate" : "Aetherium Chestplate",
+  "item.legendofvirelia.aetherium_helmet" : "Aetherium Helmet",
+
+
+
+  "item.legendofvirelia.aetherium_sword": "Aetherium Sword",
+  "item.legendofvirelia.aetherium_axe": "Aetherium Axe",
+  "item.legendofvirelia.aetherium_pickaxe": "Aetherium Pickaxe",
+  "item.legendofvirelia.aetherium_shovel": "Aetherium Shovel",
+
+
+  "item.legendofvirelia.worldbreaker_hammer": "Worldbreaker Hammer",
+  "item.legendofvirelia.hammer_tool": "Stoneforged Hammer",
+
+
+  "block.legendofvirelia.solaris_block": "Solaris Block",
+  "block.legendofvirelia.black_solaris_block": "Black Solaris Block",
+  "block.legendofvirelia.steel_block": "Steel Block",
+
+  "item.legendofvirelia.steel_ingot": "Steel Allow",
+
+  "item.legendofvirelia.steel_boots" : "Steel Boots",
+  "item.legendofvirelia.steel_leggings" : "Steel Leggings",
+  "item.legendofvirelia.steel_chestplate" : "Steel Chestplate",
+  "item.legendofvirelia.steel_helmet" : "Steel Helmet",
+  "item.legendofvirelia.carbonized_iron": "Carbonized Iron"
 }

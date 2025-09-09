@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-    "legendofvirelia:aetherium_ore"
+    "legendofvirelia:aetherium_ore",
+    "legendofvirelia:steel_block",
+    "legendofvirelia:solaris_block",
+    "legendofvirelia:black_solaris_block"
   ]
 }

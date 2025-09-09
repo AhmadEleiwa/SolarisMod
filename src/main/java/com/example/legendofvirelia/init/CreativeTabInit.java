@@ -1,6 +1,6 @@
 package com.example.legendofvirelia.init;
 
-import com.example.legendofvirelia.ExampleMod;
+import com.example.legendofvirelia.LegendOfVirelia;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -18,9 +18,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Supplier;
 
-@Mod.EventBusSubscriber(modid = ExampleMod.MODID, bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
+@Mod.EventBusSubscriber(modid = LegendOfVirelia.MODID, bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
 public class CreativeTabInit {
-    public static final DeferredRegister<CreativeModeTab> TABS = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, ExampleMod.MODID);
+    public static final DeferredRegister<CreativeModeTab> TABS = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, LegendOfVirelia.MODID);
     public static final List<Supplier<? extends ItemLike>> LEGEND_OF_VIRELIA_TAB_ITEMS = new ArrayList<>();
     public static final RegistryObject<CreativeModeTab> LEGEND_OF_VIRELIA_TAB = TABS.register("legend_of_virelia_tab",
             () -> CreativeModeTab.builder()

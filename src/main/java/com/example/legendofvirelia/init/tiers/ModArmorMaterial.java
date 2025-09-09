@@ -1,6 +1,6 @@
 package com.example.legendofvirelia.init.tiers;
 
-import com.example.legendofvirelia.ExampleMod;
+import com.example.legendofvirelia.LegendOfVirelia;
 import net.minecraft.sounds.SoundEvent;
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.item.ArmorItem;
@@ -71,7 +71,7 @@ public class ModArmorMaterial implements ArmorMaterial {
 
     @Override
     public String getName() {
-        return ExampleMod.MODID + ":" + name;
+        return LegendOfVirelia.MODID + ":" + name;
     }
 
     @Override
